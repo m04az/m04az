@@ -1,4 +1,11 @@
-### Hi there 👋
+ 
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=m04az&hide=stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/m04az?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m04az&layout=compact&theme=dracula)](https://github.com/m04az?tab=repositories)
+
+
+
 
 <!--
 **m04az/m04az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
