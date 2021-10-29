@@ -1,9 +1,8 @@
  
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=m04az&hide=stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/m04az?tab=repositories)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=m04az&hide=stars&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/m04az?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m04az&layout=compact&theme=dracula)](https://github.com/m04az?tab=repositories)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m04az&show_icons=true&layout=compact&theme=dracula&hide_border=true)](https://github.com/m04az?tab=repositories)
 
 
 
