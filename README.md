@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m04az&show_icons=true&layout=compact&theme=dracula&hide_border=true)](https://github.com/m04az?tab=repositories)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=m04az&theme=dracula&no-bg=true&no-frame=true)
 
 
 <!--
